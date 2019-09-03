@@ -1,6 +1,5 @@
-GIT
-  remote: git://github.com/Rubysdad/Tabitha.git
-  revision: 24c0ad29d97ba34c7bcf03d4704fa3250073c396
+PATH
+  remote: /Users/markmorales/code/tabitha
   specs:
     tabitha (0.1.0)
       rack
