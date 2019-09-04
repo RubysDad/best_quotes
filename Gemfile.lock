@@ -1,7 +1,7 @@
 PATH
   remote: /Users/markmorales/code/tabitha
   specs:
-    tabitha (0.1.0)
+    tabitha (0.1.1)
       rack
 
 GEM
